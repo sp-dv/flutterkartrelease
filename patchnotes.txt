@@ -1,3 +1,18 @@
+
+V 0.0.9
+ - Rain of Fire now Costs 1RR.
+ - Corrupted Wishing Well now costs BBB; B to activate.
+ - Preparation bug fix.
+ - Behind the scenes improvements.
+ - Fixed movement.
+ - Games now end.
+
+V 0.0.8
+ - Fixed bugged field flipping.
+ - Fixed bugged token updating.
+ - Added card art.
+ - Fixed bread text.
+
 V 0.0.7
  - Reworked tile enter/exit.
  - Reworked exhaust.
