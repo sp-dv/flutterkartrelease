@@ -1,0 +1,8 @@
+V 0.0.7
+ - Reworked tile enter/exit.
+ - Reworked exhaust.
+ - Movement can now be staggered.
+ - Field is now flipped so hero always starts at bottom.
+ - Reworked field.
+ - Added mulliganning.
+ - Reworked relics scrolling.
