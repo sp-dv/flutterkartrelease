@@ -1,4 +1,12 @@
 
+V 0.0.10
+ - Added login and register.
+ - Stack targets are now displayed.
+ - Fixed combat display bug.
+ - Larger field.
+ - Card selection panel is now scrollable.
+ - Added a bunch of cards.
+
 V 0.0.9
  - Rain of Fire now Costs 1RR.
  - Corrupted Wishing Well now costs BBB; B to activate.
