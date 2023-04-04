@@ -1,4 +1,10 @@
 
+V 0.0.12
+ - Added cards.
+ - Balance changes.
+ - Added Stunned keyword.
+ - Behind the scenes collections groundwork.
+
 V 0.0.11
  - Bugfixes.
 
